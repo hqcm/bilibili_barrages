@@ -55,9 +55,9 @@ class SendBarrage(object):
 
     def getCookies(self):
         geetest = Geetest()
-        username = '18700780227'
+        username = 'xxxx'
         #用户名
-        passwd = '13102030032'
+        passwd = 'xxxx'
         #密码
         geetest.login(username, passwd)
 
